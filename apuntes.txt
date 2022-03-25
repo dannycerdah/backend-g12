@@ -1,5 +1,0 @@
-python -m venv <nombre_entorno>>crea un entorno virtual en la ubicacion de la terminal 
-python -m venv entorno_flask
-
-source entorno_flask/Scripts/activate
-# pip freeze > requirements.txt
